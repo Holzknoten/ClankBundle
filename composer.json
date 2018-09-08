@@ -1,5 +1,5 @@
 {
-    "name": "jdare/clank-bundle",
+    "name": "Holzknoten/clank-bundle",
     "type": "symfony-bundle",
     "description": "Symfony ClankBundle",
     "keywords": ["Web Socket Application"],
@@ -18,7 +18,7 @@
         "cboden/Ratchet": "0.2.*"
     },
     "autoload": {
-        "psr-0": { "JDare\\ClankBundle": "" }
+        "psr-0": { "Holzknoten\\ClankBundle": "" }
     },
-    "target-dir": "JDare/ClankBundle"
+    "target-dir": "Holzknoten/ClankBundle"
 }
